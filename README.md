@@ -78,6 +78,7 @@ print("---------------------------------------------------------------")
 ```
 
 ## Output :
+![WhatsApp Image 2023-12-24 at 13 56 09_7c4117d1](https://github.com/Murali-7805/Single-server-infinite-capacity---Markov-Model/assets/151489752/62db3699-9568-4e4f-b81f-6d3c4eda4af1)
 
 ## Result :
 
